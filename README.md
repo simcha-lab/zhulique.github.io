@@ -6,7 +6,6 @@ KOGDA NOVOSELIE???
 <!DOCTYPE html>
 <html>
 <head>
-<title>OOOOOOO</title>
 </head>
 <h6>PRISHLIII MNEE KURSEEEEVICHAAAAAAAAA!</h6>
 <body>
