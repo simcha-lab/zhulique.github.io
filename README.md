@@ -10,6 +10,7 @@ KOGDA NOVOSELIE???
 <h6>PRISHLIII MNEE KURSEEEEVICHAAAAAAAAA!</h6>
 <body>
  <img src=https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60>
+ <img src=https://www.meme-arsenal.com/memes/7eb0428f264a023f379a158e4260d1ba.jpg>
 </body>
 
 </html> 
