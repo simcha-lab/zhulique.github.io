@@ -1,7 +1,4 @@
 <html>
-    <head>
-        <title>GitHub main Page</title>
-    </head>
     <body>
         <p><h1><strong>Maxim Zhilik</strong></h1></p>
         <p><h3><strong>DevSecOps Engineer </h3></p>
